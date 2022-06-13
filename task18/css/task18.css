@@ -1,0 +1,7 @@
+body head .container .navbar{
+    background:#7B32FE !important;
+}
+
+body head .container ul li{
+    border: none;
+}

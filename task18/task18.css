@@ -1,0 +1,16 @@
+body header .container .navbar{
+    background:#7B32FE !important;
+    
+}
+
+body header .container .navbar a{
+    color: white;
+}
+body header .container .nav-item .nav-link{
+    display: block;
+    padding: 0.5rem 1rem;
+    color: white;
+    text-decoration: none;
+    background-color:transparent;
+    border:none;
+}
